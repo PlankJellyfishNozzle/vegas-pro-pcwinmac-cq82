@@ -1,4 +1,4 @@
-# 
+# Free Vegas Pro extensions for Mac OS | Open Source Vegas Pro extensions for PC Windows. Featuring audio-restoration and time-remapping — optimized for maximum performance on every platform.
 
 
 
